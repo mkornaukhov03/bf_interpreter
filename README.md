@@ -1,2 +1,2 @@
 # bf_interpreter
-Embedded Brainfuck programming language interpreter for C++
+Brainfuck programming language interpreter written in C++
